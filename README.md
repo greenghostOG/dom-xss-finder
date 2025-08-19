@@ -80,6 +80,3 @@ Reports findings live on screen and saves them to a file.
 
 👨‍💻 Author Bhupender Kumar
 Made for security researchers and bug bounty hunters who need a quick DOM-XSS sink scanner.
-
-Copy
-Edit
